@@ -1,0 +1,57 @@
+JarvisX Master License
+Version 1.0 – 2025
+Copyright (c) 2025 Vihaan
+
+Licensed under the Apache License, Version 2.0 (the "License");
+with the following restrictions and enhancements.
+
+You may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+either express or implied. See the License for the specific
+language governing permissions and limitations under the License.
+
+======================= CUSTOM TERMS FOR JARVISX =========================
+
+1. Ownership:
+   All projects under the JarvisX name (including but not limited to: 
+   JarvisX LLM Builder, JarvisX AGI, JarvisX50M, JarvisX Samantha AI, 
+   JarvisX Video Generator, JarvisX Custom Architecture, and future 
+   JarvisX models, tools, and systems) are the exclusive intellectual 
+   property of Vihaan.
+
+2. Use Limitation:
+   Only Vihaan, the creator, may deploy, sell, distribute, or modify
+   JarvisX systems unless explicitly licensed otherwise.
+
+3. Commercial Use:
+   Commercial use, resale, hosting, or SaaS deployment of JarvisX-related 
+   tools is strictly forbidden without written permission from Vihaan.
+
+4. Copying & Modification:
+   Any unauthorized copying, reproduction, distribution, or derivative
+   modification of JarvisX projects is strictly prohibited.
+
+5. Violation Consequences:
+   Vihaan reserves the right to issue takedown requests, enforce 
+   DMCA claims, pursue legal action, or blacklist offending parties 
+   from future access or usage.
+
+6. Legacy & Future Protection:
+   This license applies retroactively and proactively to **all**
+   past, present, and future JarvisX projects — even those not yet published.
+
+7. Exclusive Rights:
+   Vihaan holds the sole right to modify this license and determine
+   licensing eligibility for collaborators or partners.
+
+========================================================================
+
+Signed:  
+Vihaan (JarvisX Creator)  
+April 2025
